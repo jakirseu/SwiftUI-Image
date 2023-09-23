@@ -1,4 +1,4 @@
 # SwiftUI Image
 
 
-![screenshot](app.png | width=400)
+![screenshot](app.png)
